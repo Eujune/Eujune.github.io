@@ -54,20 +54,20 @@ header {
 .main-block {
     display: inline-block;
     vertical-align: middle;
+    size: 100%;
 }
 
 .main-title {
-	font-size: 720%;
+	font-size: 54px;
 	color: #000;
 	margin: 0;
 	text-transform: uppercase;
 }
 
 .main-buttons {
-	position: relative;
 	margin: 0;
 	padding: 0;
-	font-size: 160%;
+	font-size: 16px;
 }
 
 .main-btn {
