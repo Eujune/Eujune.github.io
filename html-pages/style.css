@@ -57,7 +57,7 @@ header {
 }
 
 .main-title {
-	font-size: 72px;
+	font-size: 720%;
 	color: #000;
 	margin: 0;
 	text-transform: uppercase;
@@ -67,6 +67,7 @@ header {
 	position: relative;
 	margin: 0;
 	padding: 0;
+	font-size: 160%;
 }
 
 .main-btn {
